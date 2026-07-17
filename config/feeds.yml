@@ -1,0 +1,35 @@
+defaults:
+  timeout: 30
+  retries: 3
+  retry_backoff: 1.5
+  max_bytes: 20971520
+  max_items: 1000
+  user_agent: >-
+    Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36
+    (KHTML, like Gecko) Chrome/126.0 Safari/537.36 RSS-Relay/1.0
+  failure_policy: keep_old
+
+feeds:
+  # 当前需要中转的 SPJ Remote Sensing 期刊 RSS。
+  - id: spj-journalremotesensing
+    name: Journal of Remote Sensing
+    enabled: true
+    url: https://spj.science.org/action/showFeed?type=etoc&feed=rss&jc=remotesensing
+    output: feeds/spj-journalremotesensing.xml
+    mode: passthrough
+    warmup_url: https://spj.science.org/journal/remotesensing
+    headers:
+      Accept: application/rss+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5
+      Accept-Language: en-US,en;q=0.9
+      Referer: https://spj.science.org/journal/remotesensing
+
+  # 添加新源时复制下面的示例，修改 id、name、url、output 后取消注释。
+  # - id: another-feed
+  #   name: Another feed
+  #   enabled: true
+  #   url: https://example.com/feed.xml
+  #   output: feeds/another-feed.xml
+  #   mode: normalize   # passthrough 原样中转；normalize 转为标准 RSS 2.0
+  #   max_items: 50
+  #   headers:
+  #     Accept: application/rss+xml, application/atom+xml, application/xml

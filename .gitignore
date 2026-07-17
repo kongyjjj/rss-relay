@@ -1,0 +1,6 @@
+public/index.html
+public/status.json
+public/.nojekyll
+*.zip
+__pycache__/
+.pytest_cache/

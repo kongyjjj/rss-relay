@@ -1,0 +1,89 @@
+name: Update and publish RSS
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - config/**
+      - scripts/**
+      - requirements.txt
+      - .github/workflows/update-rss.yml
+  schedule:
+    # 每 30 分钟运行；故意避开整点，降低排队延迟概率。
+    - cron: "17,47 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: rss-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      feed_outcome: ${{ steps.feeds.outcome }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install --requirement requirements.txt
+
+      - name: Fetch and build feeds
+        id: feeds
+        continue-on-error: true
+        run: python scripts/build_feeds.py --config config/feeds.yml --output public
+
+      - name: Save last successful feed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all -- public/feeds
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update generated RSS feeds"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  report:
+    needs: [build, deploy]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail workflow when any feed was stale or failed
+        if: needs.build.outputs.feed_outcome != 'success'
+        run: |
+          echo "One or more feeds could not be refreshed. Pages was still deployed with any previous copies."
+          exit 1
+      - name: Confirm success
+        if: needs.build.outputs.feed_outcome == 'success' && needs.deploy.result == 'success'
+        run: echo "All feeds were refreshed and deployed."
