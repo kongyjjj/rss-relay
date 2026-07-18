@@ -22,6 +22,18 @@ feeds:
       Accept: application/rss+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5
       Accept-Language: en-US,en;q=0.9
       Referer: https://spj.science.org/journal/remotesensing
+  
+  - id: journal-science
+    name: Science
+    enabled: true
+    url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+    output: feeds/journal-science.xml
+    mode: passthrough
+    warmup_url: https://www.science.org/journal/science
+    headers:
+      Accept: application/rss+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5
+      Accept-Language: en-US,en;q=0.9
+      Referer: https://spj.science.org/journal/remotesensing
 
   # 添加新源时复制下面的示例，修改 id、name、url、output 后取消注释。
   # - id: another-feed

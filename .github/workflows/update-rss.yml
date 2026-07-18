@@ -10,8 +10,9 @@ on:
       - requirements.txt
       - .github/workflows/update-rss.yml
   schedule:
-    # 每 30 分钟运行；故意避开整点，降低排队延迟概率。
-    - cron: "17,47 * * * *"
+    # 每 3 小时运行；故意避开整点，降低排队延迟概率。
+    - cron: "17 */3 * * *"
+      timezone: "Asia/Shanghai"
 
 permissions:
   contents: write
