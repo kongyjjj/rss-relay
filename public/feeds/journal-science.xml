@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://www.science.org/loi/science?af=R">
+      <title>AAAS: Science: Table of Contents</title>
+      <description>Table of Contents for Science. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.science.org/loi/science?af=R</link>
+      <dc:publisher>AAAS</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Science</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adx2989?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adx3027?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adx8675?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adx9264?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aea9413?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeb2344?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeb3661?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed5665?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed6019?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed6123?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aee3453?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aef1969?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh9302?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeg6638?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aea3075?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ady1678?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5615?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5616?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei9741?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej2688?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej4801?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei9816?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh5853?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh8601?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei7769?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej7555?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5955?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5956?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5957?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5958?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5960?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5961?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5962?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5959?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej4257?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5570?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh4797?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh4807?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh4808?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeg5368?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5614?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://www.science.org/cms/asset/66915cc2-d78c-440c-bfde-711a97f5a502/default_cover.png">
+      <title>Science</title>
+      <url>https://www.science.org/cms/asset/66915cc2-d78c-440c-bfde-711a97f5a502/default_cover.png</url>
+      <link>https://www.science.org/loi/science?af=R</link>
+   </image>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adx2989?af=R">
+      <title>Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.adx2989?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.adx2989</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Peter Orchard, Thomas W. Blackwell, Linda Kachuri, Peter J. Castaldi, Michael H. Cho, Stephanie A. Christenson, Peter Durda, Stacey Gabriel, Craig P. Hersh, Scott Huntsman, Seungyong Hwang, Roby Joehanes, Mari Johnson, Xingnan Li, Honghuang Lin, Ching-Ti Liu, Yongmei Liu, Angel C. Y. Mak, Ani W. Manichaikul, David T. Paik, Aabida Saferali, Joshua D. Smith, Kent D. Taylor, Russell P. Tracy, Jiongming Wang, Mingqiang Wang, Joshua S. Weinstock, Jeffrey Weiss, Heather E. Wheeler, Ying Zhou, Sebastian Zöllner, Joseph C. Wu, Luisa Mestroni, Sharon Graw, Matthew R. G. Taylor, Victor E. Ortega, W. Craig Johnson, Weiniu Gan, Goncalo Abecasis, Deborah A. Nickerson, Namrata Gupta, Kristin Ardlie, Prescott G. Woodruff, Russell P. Bowler, Deborah A. Meyers, Alex Reiner, Charles Kooperberg, Elad Ziv, Ramachandran S. Vasan, Martin G. Larson, L. Adrienne Cupples, Edwin K. Silverman, Stephen S. Rich, Nancy Heard-Costa, Hua Tang, Jerome I. Rotter, Albert V. Smith, Daniel Levy, NHLBI TOPMed Consortium Multi-Omics Working Group, NHLBI TOPMed Consortium§, François Aguet, Laura J. Scott, Laura M. Raffield, Stephen C. J. ParkerNamiko Abe, Laura Almasy, Seth Ament, Pramod Anugu, Paul Auer, Dimitrios Avramopoulos, Adithya Balasubramanian, R. Graham Barr, Lucas Barwick, Terri Beaty, Diane Becker, Lewis Becker, Amber Beitelshees, Takis Benos, Marcos Bezerra, Joshua Bis, Jennifer Brody, Ulrich Broeckel, Jai Broome, Karen Bunting, Erin Buth, Vincent Carey, Cara Carty, Richard Casaburi, Mark Chaffin, Christy Chang, Yi-Cheng Chang, Sameer Chavan, Bo-Juen Chen, Wei-Min Chen, Seung Hoan Choi, Lee-Ming Chuang, Ren-Hua Chung, Matthew Conomos, Elaine Cornell, Carolyn Crandall, James Crapo, Jeffrey Curtis, Coleen Damcott, Sean David, Lisa de las Fuentes, Paul de Vries, Ranjan Deka, Dawn DeMeo, Scott Devine, Huyen Dinh, Harsha Doddapaneni, Qing Duan, Ravi Duggirala, Charles Eaton, Lynette Ekunwe, Adel El Boueiz, Leslie Emery, Charles Farber, Jesse Farek, Nora Franceschini, Chris Frazar, Mao Fu, Stephanie M. Fullerton, Lucinda Fulton, Shanshan Gao, Yan Gao, Margery Gass, Heather Geiger, Auyon Ghosh, Chris Gignoux, David Glahn, Stephanie Gogarten, Da-Wei Gong, Harald Goring, Daniel Grine, C. Charles Gu, Yue Guan, Michael Hall, Yi Han, Daniel Harris, Ben Heavner, David Herrington, Brian Hobbs, Elliott Hong, Karin Hoth, Chao (Agnes) Hsiung, Jianhong Hu, Yi-Jen Hung, Haley Huston, Chii Min Hwu, Rebecca Jackson, Deepti Jain, Jill Johnsen, Rich Johnston, Kimberly Jones, Michael Kessler, Alyna Khan, Ziad Khan, Wonji Kim, John Kimoff, Greg Kinney, Holly Kramer, Christoph Lange, Ethan Lange, Cathy Laurie, Cecelia Laurie, Meryl LeBoff, Sandra Lee, Wen-Jane Lee, David Levine, Joshua Lewis, Yun Li, Xihong Lin, Simin Liu, Yu Liu, Barry Make, Alisa Manning, JoAnn Manson, Lisa Martin, Melissa Marton, Susan Mathai, Susanne May, Patrick McArdle, Merry-Lynn McDonald, Sean McFarland, Daniel McGoldrick, Caitlin McHugh, Hao Mei, James Meigs, Vipin Menon, Nancy Min, Matt Moll, Zeineen Momin, May Montasser, Josyf C Mychaleckyj, Rakhi Naik, Take Naseri, Pradeep Natarajan, Sarah C. Nelson, Bonnie Neltner, Caitlin Nessner, Osuji Nkechinyere, Jeff O'Connell, Tim O’Connor, Heather Ochs-Balcom, Geoffrey Okwuonu, James Pankow, Cora Parker, Gina Peloso, Juan Manuel Peralta, Marco Perez, James Perry, Ulrike Peters, Lawrence S Phillips, Toni Pollin, Julia Powers Becker, Meher Preethi Boorgula, Bruce Psaty, Dandi Qiao, Nicholas Rafaels, Mahitha Rajendran, Laura Rasmussen-Torvik, Aakrosh Ratan, Robert Reed, Elizabeth Regan, Muagututi‘a Sefuiva Reupena, Rebecca Robillard, Carolina Roselli, Ingo Ruczinski, Alexi Runnels, Pamela Russell, Kathleen Ryan, Ester Cerdeira Sabino, Shabnam Salimi, Sejal Salvi, Steven Salzberg, Kevin Sandow, Jireh Santibanez, Karen Schwander, Frank Sciurba, Frédéric Sériès, Amol Shetty, Aniket Shetty, Brian Silver, Robert Skomro, Tanja Smith, Sylvia Smoller, Beverly Snively, Adrienne M. Stilp, Garrett Storm, Elizabeth Streeten, Jessica Lasky Su, Yun Ju Sung, Jody Sylvia, Adam Szpiro, Margaret Taub, Simeon Taylor, Timothy A. Thornton, Machiko Threlkeld, Lesley Tinker, David Tirschwell, Hemant Tiwari, Catherine Tong, Michael Tsai, Dhananjay Vaidya, Tarik Walker, Robert Wallace, Avram Walts, Fei Fei Wang, Heming Wang, Karol Watson, Jennifer Watt, Lu-Chen Weng, Jennifer Wessel, Kayleen Williams, Carla Wilson, James Wilson, Lara Winterkorn, Quenna Wong, Baojun Wu, Huichun Xu, Lisa Yanek, Ivana Yang, Seyedeh Maryam Zekavat, Snow Xueyan Zhao, Wei Zhao, Xiaofeng Zhu</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.adx2989</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.adx2989?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adx3027?af=R">
+      <title>Surface-dominant transport in Weyl semimetal NbAs nanowires for next-generation interconnects</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.adx3027?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 272-279, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 272-279, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.adx3027</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Yeryun Cheon, Mehrdad T. Kiani, Yi-Hsin Tu, Sushant Kumar, Nghiep Khoan Duong, Jiyoung Kim, Lingcheng Kong, Quynh P. Sam, Han Wang, Satya K. Kushwaha, Nicholas Ng, Seng Huat Lee, Sam Kielar, Chen Li, Amelia Schaeffer, Jack D. Coyle, Dimitrios Koumoulis, Saif Siddique, Zhiqiang Mao, Gangtae Jin, Zhiting Tian, Ravishankar Sundararaman, Hsin Lin, Gengchiau Liang, Ching-Tzu Chen, Judy J. Cha</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>272</prism:startingPage>
+      <prism:endingPage>279</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.adx3027</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.adx3027?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adx8675?af=R">
+      <title>A transcriptional biosensor reveals mechanisms of α-ketoglutarate signaling to chromatin</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.adx8675?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.adx8675</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Alex C. Sternisha, Haocheng Li, Kumar Gajendra, Yi Xiao, Xin Zhao, Jeffrey I. Traylor, Lei Guo, Ji Hyung Jun, Morgan Fleishman, Tracey Shipman, Vinesh T. Puliyappadamba, Pranita Kaphle, Qing Ouyang, Michael Schmidt, Diana D. Shi, Milan R. Savani, Alexander C.-Y. Tsai, Joyce H. Lee, Ruth Gordillo, Javier Garcia-Bermudez, Yoon Jung Kim, Shih-Chia Tso, Chad A. Brautigam, Lauren G. Zacharias, Thomas P. Mathews, Lin Xu, John G. Doench, Vidyasagar Koduri, Kalil G. Abdullah, Michalis Agathocleous, Laura A. Banaszynski, Ralph J. DeBerardinis, Eric M. Morrow, Samuel K. McBrayer</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.adx8675</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.adx8675?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adx9264?af=R">
+      <title>Direct interaction of Vδ7 TCRs with IL17RA drives the differentiation of TH1-like γδT cells</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.adx9264?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.adx9264</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Kewei Ye, Nimmy Francis, Josefine Dunst, Amanda Borgenstam, Iris Rocamonde-Lago‡, Stefanie Köhler‡, Yuanyuan You, Anatoly Dubnovitsky, Anja Kramer, Fanxi Meng, Valentin Zollner, Lisa Vogg, Tomás J. Ryan, Ken-ichi Hanada, Tommy Regen, Ari Waisman, Vivianne Malmström, Erik Benson, Jan Kisielow, Thomas Krey, Thomas H. Winkler, Leo Hanke, Taras Kreslavsky</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.adx9264</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.adx9264?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aea9413?af=R">
+      <title>Production and spectroscopy of cold radioactive molecules</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aea9413?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 319-323, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 319-323, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aea9413</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Chandler J. Conn, Phelan Yu, Madison I. Howard, Yuxi Yang, Chaoqun Zhang, Arian Jadbabaie, Aikaterini Gorou, Alyssa N. Gaiser, Timothy C. Steimle, Lan Cheng, Nicholas R. Hutzler</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>319</prism:startingPage>
+      <prism:endingPage>323</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aea9413</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aea9413?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeb2344?af=R">
+      <title>Drying of the Aral Sea reshapes the anthropogenic carbon inventory of Central Asia</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeb2344?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 300-305, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 300-305, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeb2344</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Rafael Marcé, Daniel Diaz de-Quijano, Sofía Rodríguez-Gómez, Enrique Moreno-Ostos, Makhambet Mukhtar, Björn Wissel, Zoraida Quiñones-Rivera, Carolina Olid, Santiago Giralt, Joan Pere Casas-Ruiz, Georgiy Kirillin, Daniel Mercado-Bettín, Valentí Rodellas, Jordi Ibáñez-Insa, Núria Catalán</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>300</prism:startingPage>
+      <prism:endingPage>305</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeb2344</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeb2344?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeb3661?af=R">
+      <title>Tracing the origins of St Helena’s liberated Africans</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeb3661?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeb3661</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Xueye Wang, Judy Watson, Helena Bennett, Andrew Pearson, Geoff M. Nowell, Joanne Peterkin, Kate Robson Brown, Alistair Pike, Jason Laffoon, Vicky M. Oelze, Hannes Schroeder</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeb3661</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeb3661?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aed5665?af=R">
+      <title>Cyclic sealing and drainage on an oceanic transform fault</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aed5665?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aed5665</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Hao Yang, Lingling Ye, Haijiang Zhang</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aed5665</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aed5665?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aed6019?af=R">
+      <title>Geometrically driven reversible solid-liquid phase transition at the atomic scale</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aed6019?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 280-286, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 280-286, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aed6019</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Wenjun Cui, Cheng Qian, Weixiao Lin, Zefan Xue, Zhencui Ge, Wen Zhao, Gustaaf Van Tendeloo, Jinsong Wu, Feng Ding, Xiahan Sang, Zhengyi Fu</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>280</prism:startingPage>
+      <prism:endingPage>286</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aed6019</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aed6019?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aed6123?af=R">
+      <title>Structure and evolution-guided design of minimal RNA-guided nucleases</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aed6123?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 313-318, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 313-318, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aed6123</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Petr Skopintsev, Isabel Esain-Garcia, Evan C. DeTurk, Peter H. Yoon, Zehan Zhou, Trevor Weiss, Maris Kamalu, Ajit Chamraj, Kenneth J. Loi, Conner J. Langeberg, Ron S. Boger, Hunter Nisonoff, Hannah M. Karp, Lin-Xing Chen, Honglue Shi, Kamakshi Vohra, Jillian F. Banfield, Jamie H. D. Cate, Steven E. Jacobsen, Jennifer A. Doudna</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>313</prism:startingPage>
+      <prism:endingPage>318</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aed6123</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aed6123?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aee3453?af=R">
+      <title>Performance trade-offs define a fundamental dental dichotomy in mammals</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aee3453?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 265-271, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 265-271, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aee3453</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Narimane Chatar, Melvin Vankelst, Alejandro Pérez-Ramos, Tahlia I. Pollock, Davide Tamagnini, Margot Michaud, Levi Yoder Raskin, Z. Jack Tseng</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>265</prism:startingPage>
+      <prism:endingPage>271</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aee3453</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aee3453?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aef1969?af=R">
+      <title>Spatiotemporally homogeneous crystallization for ambient scalable perovskite photovoltaics</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aef1969?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 287-293, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 287-293, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aef1969</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Binlou Gao, Yang Zhong, Xiao Luo, Jiacheng He, Junxi Guo, Xueying Wang, Yikun Liu, Licheng Tan, Yiwang Chen</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>287</prism:startingPage>
+      <prism:endingPage>293</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aef1969</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aef1969?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh9302?af=R">
+      <title>Parallel independent voltage computing along dendrites of CA3 pyramidal neurons</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeh9302?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 306-312, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 306-312, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeh9302</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Asako Noguchi, Satoshi Terada, George N. Zakka, Cliodhna O’Toole, Luke Reynolds, Michelle Ann Land, Balázs J. Rózsa, François St-Pierre, Attila Losonczy</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>306</prism:startingPage>
+      <prism:endingPage>312</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeh9302</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh9302?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeg6638?af=R">
+      <title>Robust single-electron memory with quantum states manipulation</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeg6638?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 294-299, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 294-299, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeg6638</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Chunsen Liu, Yutong Xiang, Chong Wang, Peng Zhou</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>294</prism:startingPage>
+      <prism:endingPage>299</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeg6638</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeg6638?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aea3075?af=R">
+      <title>Restored clearance of senescent neutrophils by tissue-resident macrophages limits organ aging</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aea3075?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aea3075</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Yuting Jessy Tan, Travis E. Conley, Fuwen Yao, Fernando J. García-Marqués, Damilola E. Akinyemi, Van Vuong Dinh, Qian Wang, Abel Bermudez, Jieun Kim, Julia A. Belk, Oliver Soehnlein, Sharon J. Pitteri, Katrin I. Andreasson</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aea3075</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aea3075?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ady1678?af=R">
+      <title>Dendritic cells control tertiary lymphoid structure development and maintenance in cancer</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.ady1678?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.ady1678</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Raphaël Mattiuz, Jesse Boumelha, Emmanouil Aerakis, Jessica Le Berichel, Pauline Hamon, Laszlo Halasz, Abishek Vaidya, Brian Y. Soong, Emir Radkevich, Hye Mi Kim, Matthew D. Park, Romain Donne, Leanna Troncoso, Rachel A. Kaplan, Clotilde Hennequin, Isaias Hernández-Verdin, Lucía López, Frederika Rentzeperis, Darwin D’Souza, Medard Ernest Kaiza, Ian P. MacFawn, Meriem Belabed, Guillaume Mestrallet, Etienne Humblin, Raphaël Merand, Samarth Hegde, Jean-Christophe Lone, Giorgio Ioannou, Sinem Ozbey, Igor Figueiredo, Alexander Tepper, Hajer Merarda, Nadine Serhan, Maximilian M. Schaefer, Jinping An, Ray A. Ohara, Erika Nemeth, Simon Goldstein, Amanda M. Reid, Moataz Noureddine, Alexandra Tabachnikova, Giulia Maria Piperno, Maria Tsoumakidou, Jalal Ahmed, Alexandros D. Polydorides, Nina Bhardwaj, Amaia Lujambio, Zhihong Chen, Edgar Gonzalez Kozlova, Seunghee Kim-Schulze, Joshua D. Brody, Michael Schotsaert, Christine Moussion, Sacha Gnjatic, Vladimir Roudko, Florent Ginhoux, Kenneth M. Murphy, Catherine Sautès-Fridman, Wolf Herman Fridman, Brian D. Brown, Thomas U. Marron, Federica Benvenuti, Jason G. Cyster, Hélène Salmon, Tullia C. Bruno, Nikhil S. Joshi, Alice O. Kamphorst, Miriam Merad</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.ady1678</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.ady1678?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5615?af=R">
+      <title>In Other Journals</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5615?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 256-257, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 256-257, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5615</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Highlights</dc:type>
+      <dc:creator>Corinne Simonti, and Jesse Smith, Mattia Maroso, L. Bryan Ray, Michael A. Funk, Jake S. Yeston, Yevgeniya Nusinovich, Sumin Jin, and Sacha Vignieri</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>256</prism:startingPage>
+      <prism:endingPage>257</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5615</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5615?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5616?af=R">
+      <title>What tears can say</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5616?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 326-326, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 326-326, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5616</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Working Life</dc:type>
+      <dc:creator>Gavin Schwarz</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>326</prism:startingPage>
+      <prism:endingPage>326</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5616</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5616?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aei9741?af=R">
+      <title>Lymph nodes now optional</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aei9741?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 242-243, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 242-243, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aei9741</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Perspective</dc:type>
+      <dc:creator>William K. Decker</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>242</prism:startingPage>
+      <prism:endingPage>243</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aei9741</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aei9741?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aej2688?af=R">
+      <title>Bringing radioactive molecules to the table</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aej2688?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 246-246, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 246-246, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aej2688</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Perspective</dc:type>
+      <dc:creator>Luke Caldwell</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>246</prism:startingPage>
+      <prism:endingPage>246</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aej2688</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aej2688?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aej4801?af=R">
+      <title>Recovering lost origins</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aej4801?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 243-244, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 243-244, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aej4801</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Perspective</dc:type>
+      <dc:creator>R. Alexander Bentley</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>243</prism:startingPage>
+      <prism:endingPage>244</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aej4801</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aej4801?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aei9816?af=R">
+      <title>Tidying up aging organs</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aei9816?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 244-245, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 244-245, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aei9816</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Perspective</dc:type>
+      <dc:creator>Garret A. FitzGerald</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>244</prism:startingPage>
+      <prism:endingPage>245</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aei9816</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aei9816?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh5853?af=R">
+      <title>Social calibration of sycophantic AI</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeh5853?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 248-248, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 248-248, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeh5853</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Letter</dc:type>
+      <dc:creator>Shaoshuai Meng</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>248</prism:startingPage>
+      <prism:endingPage>248</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeh5853</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh5853?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh8601?af=R">
+      <title>Social calibration of sycophantic AI—Response</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeh8601?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 248-248, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 248-248, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeh8601</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Letter</dc:type>
+      <dc:creator>Myra Cheng, Cinoo Lee, Pranav Khadpe, and Dan Jurafsky</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>248</prism:startingPage>
+      <prism:endingPage>248</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeh8601</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh8601?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aei7769?af=R">
+      <title>Seabed mining requires timely governance</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aei7769?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 247-247, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 247-247, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aei7769</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Letter</dc:type>
+      <dc:creator>Carsten Rühlemann</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>247</prism:startingPage>
+      <prism:endingPage>247</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aei7769</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aei7769?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aej7555?af=R">
+      <title>Erratum for the Research Article “Elastic ice microfibers”</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aej7555?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aej7555</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Errata</dc:type>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aej7555</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aej7555?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5955?af=R">
+      <title>As the Arctic warms, gray whale boom turns into a bust</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5955?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 226-227, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 226-227, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5955</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>In Depth</dc:type>
+      <dc:creator>Warren Cornwall</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>226</prism:startingPage>
+      <prism:endingPage>227</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5955</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5955?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5956?af=R">
+      <title>In a billion-dollar gamble, NSF bets on research with an economic payoff</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5956?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 228-229, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 228-229, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5956</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>In Depth</dc:type>
+      <dc:creator>Jeffrey Mervis</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>228</prism:startingPage>
+      <prism:endingPage>229</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5956</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5956?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5957?af=R">
+      <title>NSF bans almost all research collaborations with China</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5957?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 229-230, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 229-230, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5957</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>In Depth</dc:type>
+      <dc:creator>Jeffrey Mervis</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>229</prism:startingPage>
+      <prism:endingPage>230</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5957</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5957?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5958?af=R">
+      <title>Scandinavian radar array will probe mysteries of the aurora</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5958?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 230-231, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 230-231, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5958</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>In Depth</dc:type>
+      <dc:creator>Richard Stone</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>230</prism:startingPage>
+      <prism:endingPage>231</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5958</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5958?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5960?af=R">
+      <title>Tree-killing beetle is spreading to urban forests around the world</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5960?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 233-234, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 233-234, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5960</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>In Depth</dc:type>
+      <dc:creator>Elizabeth Pennisi</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>233</prism:startingPage>
+      <prism:endingPage>234</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5960</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5960?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5961?af=R">
+      <title>Spain’s largest research body confronts its dark past</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5961?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 234-235, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 234-235, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5961</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>In Depth</dc:type>
+      <dc:creator>Elisabeth Pain</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>234</prism:startingPage>
+      <prism:endingPage>235</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5961</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5961?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5962?af=R">
+      <title>An uncertain path</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5962?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 236-241, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 236-241, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5962</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Feature</dc:type>
+      <dc:creator>Catherine Offord</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>236</prism:startingPage>
+      <prism:endingPage>241</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5962</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5962?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5959?af=R">
+      <title>U.S. researchers express outrage over proposed changes to managing federal grants</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5959?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 232-233, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 232-233, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5959</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>In Depth</dc:type>
+      <dc:creator>Jeffrey Mervis</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>232</prism:startingPage>
+      <prism:endingPage>233</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5959</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5959?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aej4257?af=R">
+      <title>Advancing science by designing for surprise</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aej4257?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aej4257</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T07:00:00Z</dc:date>
+      <dc:type>Expert Voices</dc:type>
+      <dc:creator>James Evans Casey Petroff Gary King</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aej4257</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aej4257?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5570?af=R">
+      <title>AI in scientific publishing: Slower, worse, and more expensive</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5570?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 225-225, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 225-225, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5570</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Editorial</dc:type>
+      <dc:creator>H. Holden Thorp</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>225</prism:startingPage>
+      <prism:endingPage>225</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5570</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5570?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh4797?af=R">
+      <title>Regaining your voice</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeh4797?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 252-253, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 252-253, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeh4797</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Essay</dc:type>
+      <dc:creator>Sergey Stavisky</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>252</prism:startingPage>
+      <prism:endingPage>253</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeh4797</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh4797?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh4807?af=R">
+      <title>Reprogramming synthesis</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeh4807?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 253-253, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 253-253, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeh4807</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Essay</dc:type>
+      <dc:creator>Zhiling Zheng</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>253</prism:startingPage>
+      <prism:endingPage>253</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeh4807</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh4807?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh4808?af=R">
+      <title>The Therabot will see you now</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeh4808?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 253-253, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 253-253, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeh4808</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Essay</dc:type>
+      <dc:creator>Nicholas C. Jacobson</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>253</prism:startingPage>
+      <prism:endingPage>253</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeh4808</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh4808?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeg5368?af=R">
+      <title>The rise and fall of the Amazon Soy Moratorium</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aeg5368?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 249-251, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 249-251, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aeg5368</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Policy Forum</dc:type>
+      <dc:creator>Lisa Rausch, Tiago N. P. Reis, Cristiane Mazzetti, Marcos Barrozo, Marin Skidmore, and Holly K. Gibbs</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>249</prism:startingPage>
+      <prism:endingPage>251</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aeg5368</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeg5368?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5614?af=R">
+      <title>In Science Journals</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5614?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 255-257, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 255-257, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5614</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Research Highlights</dc:type>
+      <dc:creator>Michael Funk, and Jesse Smith, Jack Huang, Stella M. Hurtley, Yury Suleymanov, Mattia Maroso, Michael A. Funk, Wei Wong, Phil Szuromi, Bharat Jalan, Corinne Simonti, Angela Hessler, Sarah H. Ross, Priscilla N. Kelly, L. Bryan Ray, Jelena Stajic, Sacha Vignieri, Leoma Bere, and Daniela Neuhofer</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>255</prism:startingPage>
+      <prism:endingPage>257</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5614</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5614?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+</rdf:RDF>
