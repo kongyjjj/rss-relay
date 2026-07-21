@@ -47,6 +47,7 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5958?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5960?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5961?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5962?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5959?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej4257?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek5570?af=R"/>
@@ -716,6 +717,27 @@
       <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aek5961</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5961?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5962?af=R">
+      <title>An uncertain path</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aek5962?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/393/6808"&gt;Volume 393, Issue 6808&lt;/a&gt;, Page 236-241, July 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 393, Issue 6808, Page 236-241, July 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aek5962</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-07-16T06:00:06Z</dc:date>
+      <dc:type>Feature</dc:type>
+      <dc:creator>Catherine Offord</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>393</prism:volume>
+      <prism:number>6808</prism:number>
+      <prism:startingPage>236</prism:startingPage>
+      <prism:endingPage>241</prism:endingPage>
+      <prism:coverDate>2026-07-16T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-07-16T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aek5962</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek5962?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek5959?af=R">
