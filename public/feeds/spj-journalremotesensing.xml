@@ -33,12 +33,12 @@
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0737?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1066?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1046?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1030?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0836?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1043?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1045?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0805?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0929?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1034?af=R"/>
@@ -56,6 +56,14 @@
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1067?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1065?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1052?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1029?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0732?af=R"/>
@@ -401,6 +409,24 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1046?af=R</prism:url>
       <prism:copyright/>
    </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R">
+      <title>Regional Atmospheric Profile Retrieval Driven by Multistation Collaboration based on Geoscience-Informed Deep Learning</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1063</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-08-28T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Shuailong JiangYingying MaChengwei LiLianfa LeiBoming LiuShikuan JinRuonan FanYujie WangWei Gong</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1063</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R</prism:url>
+      <prism:copyright/>
+   </item>
    <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R">
       <title>Exploring the Performance of SWOT Satellite to Monitor Lake Volumes: A Case Study of Chinese Lakes</title>
       <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R</link>
@@ -489,24 +515,6 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1045</prism:doi>
       <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1045?af=R</prism:url>
-      <prism:copyright/>
-   </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R">
-      <title>Divergent Responses of Multi-frequency Vegetation Optical Depth Products to Climate Variations in China</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R</link>
-      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
-      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.34133/remotesensing.1028</dc:identifier>
-      <dc:source>Journal of Remote Sensing</dc:source>
-      <dc:date>2026-02-02T08:00:00Z</dc:date>
-      <dc:type/>
-      <dc:creator>Mingzhu HeYonghong YiXiaojun LiJean-Pierre WigneronJohn S. KimballRolf ReichleLei FanHans W. Chen</dc:creator>
-      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
-      <prism:volume>6</prism:volume>
-      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.34133/remotesensing.1028</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0805?af=R">
@@ -813,6 +821,150 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1052</prism:doi>
       <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1052?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R">
+      <title>Integrating Hyperspectral Data and Google Satellite Embedding Features for Aquatic Fish Biodiversity Prediction</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1069</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-07-28T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Wenchao QiLe YuTao LiuYibo WangXinyi ZhouYongxian ZhangXiaoli LiQiang ZhaoHui WuShijun ZhengYuan ZengMengzhen Xu</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1069</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R">
+      <title>Impacts of Compound Drought–Fire Events on Vegetation Sensitivity to Precipitation: Evidence from Global Satellite Observations during 2005 to 2021</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1060</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-08-03T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Huipeng XiQunming Wang</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1060</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R">
+      <title>Improving Soybean Yield Estimation by Incorporating Angular Anisotropy in Physics-Guided Deep Learning</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1059</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-08-03T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Yongyuan GaoDalei HaoAnne GobinJianxi HuangWei SuBingbo GaoYelu Zeng</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1059</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R">
+      <title>Anthropogenic Disturbance Dampens Climate-Driven Greening in the Arctic</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1062</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-08-05T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Chong LiuJiayi WangYulong ZhangQi ZhangNa DongCaixia LiuTeng LiXiao Cheng</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1062</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R">
+      <title>A Prototype Precipitation Retrieval Algorithm for Passive Microwave Observations from the FY-3G Satellite</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1057</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-08-11T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Banghai WuXiaoqing LiYu WangXiaoye FanPeng ZhangLin ChenYixiao Fu</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1057</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R">
+      <title>A Remote Sensing-Based Solution for National Scale Tree Counting</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.0970</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-08-18T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Maurice MugabowindekweDimitri GominskiFlorian ReinerXiaoye TongPhilippe CiaisElias NyandwiIvan GasangwaYves HategekimanaElikana JohnRussell MainGaia Vaglio LaurinRasmus FensholtMartin Brandt</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.0970</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R">
+      <title>Forest Height Regulates the Relationship between Sun-Induced Chlorophyll Fluorescence and Gross Primary Productivity at the Global Scale</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1061</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-08-19T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Xingmin ZhaoJing M. ChenZhaoying ZhangWeimin JuJia SunZixuan Zeng</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1061</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R">
+      <title>Divergent Responses of Multi-frequency Vegetation Optical Depth Products to Climate Variations in China</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1028</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-02-02T08:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Mingzhu HeYonghong YiXiaojun LiJean-Pierre WigneronJohn S. KimballRolf ReichleLei FanHans W. Chen</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1028</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R">
