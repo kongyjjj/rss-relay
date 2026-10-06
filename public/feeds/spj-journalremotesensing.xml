@@ -36,6 +36,7 @@
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1071?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1074?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1030?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0836?af=R"/>
@@ -466,6 +467,24 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1074</prism:doi>
       <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1074?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R">
+      <title>Deep Learning-Based Precipitation Classification Using Global Precipitation Measurement Dual-Frequency Precipitation Radar</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1078</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-10-06T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Daniel DurbinYadong WangLin TangChao Lu</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1078</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R">
