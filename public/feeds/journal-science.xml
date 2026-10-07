@@ -6,72 +6,72 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc/"
          xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
-   <channel rdf:about="https://www.science.org/loi/science?af=R">
+   <channel rdf:about="https://spj.science.org/loi/science?af=R">
       <title>AAAS: Science: Table of Contents</title>
       <description>Table of Contents for Science. List of articles from both the latest and ahead of print issues.</description>
-      <link>https://www.science.org/loi/science?af=R</link>
+      <link>https://spj.science.org/loi/science?af=R</link>
       <dc:publisher>AAAS</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Science</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael1175?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej3535?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adz4797?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aec8423?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed3065?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed8207?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aef2542?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aef5175?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeg1070?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeg3949?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeg4972?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adv0235?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeg5583?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh1375?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem4087?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh1405?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeg5004?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh4468?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8011?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8012?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh7496?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael3784?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael4456?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael7271?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael7341?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem4102?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek9583?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael0421?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael2357?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek9401?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem7112?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8456?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8457?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8458?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8459?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8460?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8461?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8462?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8463?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8455?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aek7949?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem6125?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei2427?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8010?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.ael1175?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aej3535?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.adz4797?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aec8423?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aed3065?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aed8207?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aef2542?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aef5175?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeg1070?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeg3949?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeg4972?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.adv0235?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeg5583?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeh1375?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem4087?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeh1405?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeh0145?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeg5004?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeh4468?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8011?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8012?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aeh7496?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.ael3784?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.ael4456?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.ael7271?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.ael7341?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem4102?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aek9583?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.ael0421?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.ael2357?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aek9401?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem7112?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8456?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8457?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8458?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8459?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8460?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8461?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8462?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8463?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8455?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aek7949?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem6125?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aei2427?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.1126/science.aem8010?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.science.org/cms/asset/66915cc2-d78c-440c-bfde-711a97f5a502/default_cover.png">
+   <image rdf:about="https://spj.science.org/cms/asset/66915cc2-d78c-440c-bfde-711a97f5a502/default_cover.png">
       <title>Science</title>
-      <url>https://www.science.org/cms/asset/66915cc2-d78c-440c-bfde-711a97f5a502/default_cover.png</url>
-      <link>https://www.science.org/loi/science?af=R</link>
+      <url>https://spj.science.org/cms/asset/66915cc2-d78c-440c-bfde-711a97f5a502/default_cover.png</url>
+      <link>https://spj.science.org/loi/science?af=R</link>
    </image>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ael1175?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.ael1175?af=R">
       <title>A medical mystery unfolds in middle America</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.ael1175?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 36-36, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.ael1175?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 36-36, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 36-36, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.ael1175</dc:identifier>
       <dc:source>Science</dc:source>
@@ -86,13 +86,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ael1175</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.ael1175?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.ael1175?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aej3535?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aej3535?af=R">
       <title>Walden and the wild roots of conservation science</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aej3535?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 37-37, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aej3535?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 37-37, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 37-37, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aej3535</dc:identifier>
       <dc:source>Science</dc:source>
@@ -107,13 +107,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aej3535</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aej3535?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aej3535?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adz4797?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.adz4797?af=R">
       <title>Mitochondrial carrier SLC25A34 links clock, diet, and temperature control of adipocyte lipid cycling</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.adz4797?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.adz4797?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.adz4797</dc:identifier>
       <dc:source>Science</dc:source>
@@ -126,13 +126,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.adz4797</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.adz4797?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.adz4797?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aec8423?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aec8423?af=R">
       <title>Quadrupolar sea level fluctuations reveal episodes of rapid polar wander</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aec8423?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 87-90, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aec8423?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 87-90, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 87-90, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aec8423</dc:identifier>
       <dc:source>Science</dc:source>
@@ -147,13 +147,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aec8423</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aec8423?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aec8423?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aed3065?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aed3065?af=R">
       <title>Loss of the tumor suppressor p53 generates a signaling gradient that drives epithelial clonal expansion</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aed3065?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aed3065?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aed3065</dc:identifier>
       <dc:source>Science</dc:source>
@@ -166,13 +166,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aed3065</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aed3065?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aed3065?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aed8207?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aed8207?af=R">
       <title>Hypertension fuels osteoarthritis through neuroendocrine signaling</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aed8207?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aed8207?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aed8207</dc:identifier>
       <dc:source>Science</dc:source>
@@ -185,13 +185,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aed8207</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aed8207?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aed8207?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aef2542?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aef2542?af=R">
       <title>Incorporation of atmospheric components in planetary magma oceans through bubble–metal compounds</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aef2542?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 97-101, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aef2542?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 97-101, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 97-101, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aef2542</dc:identifier>
       <dc:source>Science</dc:source>
@@ -206,13 +206,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aef2542</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aef2542?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aef2542?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aef5175?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aef5175?af=R">
       <title>Dynamic multimodal cation-carbon interaction for efficient adiponitrile electrosynthesis</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aef5175?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 91-96, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aef5175?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 91-96, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 91-96, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aef5175</dc:identifier>
       <dc:source>Science</dc:source>
@@ -227,13 +227,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aef5175</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aef5175?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aef5175?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeg1070?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeg1070?af=R">
       <title>Hierarchical crystalline organic-inorganic framework enabling high-modulus toughening in nacre</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeg1070?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 81-86, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeg1070?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 81-86, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 81-86, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeg1070</dc:identifier>
       <dc:source>Science</dc:source>
@@ -248,13 +248,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeg1070</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeg1070?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeg1070?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeg3949?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeg3949?af=R">
       <title>Phage proteases activate CBASS antiphage immunity</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeg3949?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 102-106, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeg3949?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 102-106, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 102-106, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeg3949</dc:identifier>
       <dc:source>Science</dc:source>
@@ -269,13 +269,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeg3949</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeg3949?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeg3949?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeg4972?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeg4972?af=R">
       <title>Ultrahigh piezoelectricity by polaron-defect complexes</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeg4972?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 118-124, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeg4972?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 118-124, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 118-124, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeg4972</dc:identifier>
       <dc:source>Science</dc:source>
@@ -290,13 +290,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeg4972</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeg4972?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeg4972?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adv0235?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.adv0235?af=R">
       <title>Synergistic polar states by selective atomic gradients</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.adv0235?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 107-112, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.adv0235?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 107-112, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 107-112, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.adv0235</dc:identifier>
       <dc:source>Science</dc:source>
@@ -311,13 +311,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.adv0235</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.adv0235?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.adv0235?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeg5583?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeg5583?af=R">
       <title>Precise length and charge segmentation of billion-dalton supramolecular polymers</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeg5583?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 125-132, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeg5583?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 125-132, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 125-132, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeg5583</dc:identifier>
       <dc:source>Science</dc:source>
@@ -332,13 +332,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeg5583</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeg5583?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeg5583?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh1375?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeh1375?af=R">
       <title>Stationary entanglement of a levitated oscillator with an optical field</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeh1375?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 113-117, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeh1375?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 113-117, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 113-117, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeh1375</dc:identifier>
       <dc:source>Science</dc:source>
@@ -353,13 +353,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeh1375</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh1375?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeh1375?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem4087?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem4087?af=R">
       <title>A Lifelong Focus on Women’s Health</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem4087?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 42-43, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem4087?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 42-43, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 42-43, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem4087</dc:identifier>
       <dc:source>Science</dc:source>
@@ -374,13 +374,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem4087</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem4087?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem4087?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh1405?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeh1405?af=R">
       <title>Shaping maternal physiology: Immune control of reproductive adaptation</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeh1405?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 46-52, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeh1405?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 46-52, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 46-52, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeh1405</dc:identifier>
       <dc:source>Science</dc:source>
@@ -395,13 +395,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeh1405</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh1405?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeh1405?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeh0145?af=R">
       <title>X and Y chromosomes as determinants of aging and disease</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 53-59, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeh0145?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 53-59, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 53-59, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeh0145</dc:identifier>
       <dc:source>Science</dc:source>
@@ -416,13 +416,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeh0145</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeh0145?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeg5004?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeg5004?af=R">
       <title>Reframing menopause and menopause hormone therapy as opportunities for healthy aging</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeg5004?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 60-68, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeg5004?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 60-68, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 60-68, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeg5004</dc:identifier>
       <dc:source>Science</dc:source>
@@ -437,13 +437,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeg5004</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeg5004?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeg5004?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh4468?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeh4468?af=R">
       <title>Sex-specific mechanisms of chronic pain</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeh4468?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 69-74, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeh4468?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 69-74, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 69-74, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeh4468</dc:identifier>
       <dc:source>Science</dc:source>
@@ -458,13 +458,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeh4468</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh4468?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeh4468?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8011?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8011?af=R">
       <title>In Other Journals</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8011?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 76-77, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8011?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 76-77, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 76-77, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8011</dc:identifier>
       <dc:source>Science</dc:source>
@@ -479,13 +479,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8011</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8011?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8011?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8012?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8012?af=R">
       <title>Making the invisible visible</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8012?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 134-134, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8012?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 134-134, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 134-134, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8012</dc:identifier>
       <dc:source>Science</dc:source>
@@ -500,13 +500,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8012</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8012?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8012?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeh7496?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aeh7496?af=R">
       <title>Does the postmenopausal ovary still matter?</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aeh7496?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 44-45, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aeh7496?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 44-45, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 44-45, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aeh7496</dc:identifier>
       <dc:source>Science</dc:source>
@@ -521,13 +521,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aeh7496</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aeh7496?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aeh7496?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ael3784?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.ael3784?af=R">
       <title>Osteoarthritis as a vascular disease</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.ael3784?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 30-31, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.ael3784?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 30-31, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 30-31, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.ael3784</dc:identifier>
       <dc:source>Science</dc:source>
@@ -542,13 +542,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ael3784</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.ael3784?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.ael3784?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ael4456?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.ael4456?af=R">
       <title>Self-assembling polymers work up some nerve</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.ael4456?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 27-28, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.ael4456?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 27-28, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 27-28, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.ael4456</dc:identifier>
       <dc:source>Science</dc:source>
@@ -563,13 +563,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ael4456</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.ael4456?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.ael4456?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ael7271?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.ael7271?af=R">
       <title>A mitochondrial carrier turns on the heat</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.ael7271?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 29-30, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.ael7271?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 29-30, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 29-30, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.ael7271</dc:identifier>
       <dc:source>Science</dc:source>
@@ -584,13 +584,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ael7271</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.ael7271?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.ael7271?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ael7341?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.ael7341?af=R">
       <title>A tumor suppressor shuts down a signal gradient</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.ael7341?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 32-32, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.ael7341?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 32-32, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 32-32, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.ael7341</dc:identifier>
       <dc:source>Science</dc:source>
@@ -605,13 +605,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ael7341</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.ael7341?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.ael7341?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem4102?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem4102?af=R">
       <title>Editor’s Note on the Research Article “China’s solar expansion policy reduces bird diversity”</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem4102?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 40-40, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem4102?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 40-40, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 40-40, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem4102</dc:identifier>
       <dc:source>Science</dc:source>
@@ -626,13 +626,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem4102</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem4102?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem4102?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek9583?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aek9583?af=R">
       <title>Recording results from single-patient trials</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aek9583?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 38-39, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aek9583?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 38-39, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 38-39, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aek9583</dc:identifier>
       <dc:source>Science</dc:source>
@@ -647,13 +647,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aek9583</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek9583?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aek9583?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ael0421?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.ael0421?af=R">
       <title>Streamlining oversight in gene-editing trials</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.ael0421?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 39-39, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.ael0421?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 39-39, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 39-39, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.ael0421</dc:identifier>
       <dc:source>Science</dc:source>
@@ -668,13 +668,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ael0421</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.ael0421?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.ael0421?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ael2357?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.ael2357?af=R">
       <title>The utilitarian temptation in gene editing</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.ael2357?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 39-40, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.ael2357?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 39-40, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 39-40, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.ael2357</dc:identifier>
       <dc:source>Science</dc:source>
@@ -689,13 +689,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ael2357</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.ael2357?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.ael2357?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek9401?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aek9401?af=R">
       <title>Epistemic justice in gene-editing research</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aek9401?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 38-38, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aek9401?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 38-38, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 38-38, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aek9401</dc:identifier>
       <dc:source>Science</dc:source>
@@ -710,13 +710,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aek9401</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek9401?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aek9401?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem7112?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem7112?af=R">
       <title>Erratum for the Research Article “Kinetics of dCas9 target search in Escherichia coli”</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem7112?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem7112?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem7112</dc:identifier>
       <dc:source>Science</dc:source>
@@ -728,13 +728,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem7112</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem7112?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem7112?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8456?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8456?af=R">
       <title>First glowing cuttlefish marks a genetic engineering milestone</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8456?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 12-13, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8456?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 12-13, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 12-13, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8456</dc:identifier>
       <dc:source>Science</dc:source>
@@ -749,13 +749,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8456</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8456?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8456?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8457?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8457?af=R">
       <title>Fed up with politicians not listening, a climate scientist runs for office</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8457?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 14-15, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8457?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 14-15, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 14-15, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8457</dc:identifier>
       <dc:source>Science</dc:source>
@@ -770,13 +770,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8457</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8457?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8457?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8458?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8458?af=R">
       <title>U.K. funder used ‘AI triage’ to reject grant proposals</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8458?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 15-15, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8458?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 15-15, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 15-15, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8458</dc:identifier>
       <dc:source>Science</dc:source>
@@ -791,13 +791,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8458</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8458?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8458?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8459?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8459?af=R">
       <title>Can an AI feel pain? It can at least act like it does</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8459?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 16-16, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8459?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 16-16, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 16-16, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8459</dc:identifier>
       <dc:source>Science</dc:source>
@@ -812,13 +812,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8459</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8459?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8459?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8460?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8460?af=R">
       <title>Oil wells could become mines for critical minerals</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8460?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 17-18, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8460?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 17-18, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 17-18, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8460</dc:identifier>
       <dc:source>Science</dc:source>
@@ -833,13 +833,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8460</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8460?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8460?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8461?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8461?af=R">
       <title>Project will track Amazon biodiversity in real time</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8461?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 18-19, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8461?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 18-19, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 18-19, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8461</dc:identifier>
       <dc:source>Science</dc:source>
@@ -854,13 +854,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8461</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8461?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8461?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8462?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8462?af=R">
       <title>Space telescope will reopen view of far-infrared sky</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8462?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 20-20, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8462?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 20-20, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 20-20, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8462</dc:identifier>
       <dc:source>Science</dc:source>
@@ -875,13 +875,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8462</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8462?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8462?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8463?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8463?af=R">
       <title>Impending changes to U.S. human subject protections put ethicists on edge</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8463?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 21-21, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8463?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 21-21, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 21-21, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8463</dc:identifier>
       <dc:source>Science</dc:source>
@@ -896,13 +896,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8463</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8463?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8463?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8455?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8455?af=R">
       <title>Shots on goal</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8455?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 22-26, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8455?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 22-26, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 22-26, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8455</dc:identifier>
       <dc:source>Science</dc:source>
@@ -917,13 +917,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8455</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8455?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8455?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aek7949?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aek7949?af=R">
       <title>Keep AI-augmented science contestable</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aek7949?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 5-5, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aek7949?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 5-5, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 5-5, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aek7949</dc:identifier>
       <dc:source>Science</dc:source>
@@ -938,13 +938,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aek7949</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aek7949?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aek7949?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem6125?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem6125?af=R">
       <title>Verification makes discovery matter</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem6125?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 7-7, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem6125?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 7-7, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 7-7, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem6125</dc:identifier>
       <dc:source>Science</dc:source>
@@ -959,13 +959,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem6125</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem6125?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem6125?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aei2427?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aei2427?af=R">
       <title>Longevity products: Innovation through regulation</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aei2427?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 33-35, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aei2427?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 33-35, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 33-35, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aei2427</dc:identifier>
       <dc:source>Science</dc:source>
@@ -980,13 +980,13 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aei2427</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aei2427?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aei2427?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8010?af=R">
+   <item rdf:about="https://spj.science.org/doi/abs/10.1126/science.aem8010?af=R">
       <title>In Science Journals</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8010?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 75-77, October 2026. &lt;br/&gt;</content:encoded>
+      <link>https://spj.science.org/doi/abs/10.1126/science.aem8010?af=R</link>
+      <content:encoded>Science, &lt;a href="https://spj.science.org/toc/science/394/6819"&gt;Volume 394, Issue 6819&lt;/a&gt;, Page 75-77, October 2026. &lt;br/&gt;</content:encoded>
       <description>Science, Volume 394, Issue 6819, Page 75-77, October 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.1126/science.aem8010</dc:identifier>
       <dc:source>Science</dc:source>
@@ -1001,7 +1001,7 @@
       <prism:coverDate>2026-10-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem8010</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8010?af=R</prism:url>
+      <prism:url>https://spj.science.org/doi/abs/10.1126/science.aem8010?af=R</prism:url>
       <prism:copyright/>
    </item>
 </rdf:RDF>
