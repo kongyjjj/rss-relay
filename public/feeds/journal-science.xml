@@ -17,7 +17,6 @@
          <rdf:Seq>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael8752?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adx9628?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aea7733?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeb2986?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeb4554?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aec7662?af=R"/>
@@ -27,10 +26,11 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei1312?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej2213?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei5520?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aec3917?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei0940?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adx4170?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aec3917?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ady2660?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aea7733?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem9878?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem9877?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeh7034?af=R"/>
@@ -97,25 +97,6 @@
       <prism:coverDisplayDate>2026-10-08T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.adx9628</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.adx9628?af=R</prism:url>
-      <prism:copyright/>
-   </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aea7733?af=R">
-      <title>The human gut microbiome primes fever after vaccination</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aea7733?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6820"&gt;Volume 394, Issue 6820&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
-      <description>Science, Volume 394, Issue 6820, October 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.1126/science.aea7733</dc:identifier>
-      <dc:source>Science</dc:source>
-      <dc:date>2026-10-08T07:00:00Z</dc:date>
-      <dc:type>Research Article</dc:type>
-      <dc:creator>Kelsey E. Huus, µHEAT Study Group‡, Hirohito Abo, Yi Han Tan, Ezgi Atay, Héloïse Rytter, Ronald Keller, Silke Dauser, Dai Long Vu, Meghan B. Azad, Rob Knight, Alfred Ke, Larisa Lotoski, Marc-André Langlois, Rong Liu, Alexander V. Tyakht, Nicholas Youngblut, Sang-Moo Kang, Julie Parsonnet, Lisa Maier, Benoit Chassaing, Peter G. Kremsner, Andrew T. Gewirtz, Meral Esen, Ruth E. LeyJulian J. Gabor, Johanna M. Gaile, Wim A. Fleischmann, Alex S. Siebner, Geerten Smeenk, Judith Flügge, Roberta Allgayer De Moraes, Dennis Jakob, Alina Prokipchuk, Carolin Wilhelm</dc:creator>
-      <prism:publicationName>Science</prism:publicationName>
-      <prism:volume>394</prism:volume>
-      <prism:number>6820</prism:number>
-      <prism:coverDate>2026-10-08T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2026-10-08T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1126/science.aea7733</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aea7733?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeb2986?af=R">
@@ -299,27 +280,6 @@
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aei5520?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aec3917?af=R">
-      <title>High-capacity associative memory in a quantum-optical spin glass</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aec3917?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6820"&gt;Volume 394, Issue 6820&lt;/a&gt;, Page 212-215, October 2026. &lt;br/&gt;</content:encoded>
-      <description>Science, Volume 394, Issue 6820, Page 212-215, October 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.1126/science.aec3917</dc:identifier>
-      <dc:source>Science</dc:source>
-      <dc:date>2026-09-03T06:00:00Z</dc:date>
-      <dc:type>Research Article</dc:type>
-      <dc:creator>Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Surya Ganguli, Sarang Gopalakrishnan, Jonathan Keeling, Benjamin L. Lev</dc:creator>
-      <prism:publicationName>Science</prism:publicationName>
-      <prism:volume>394</prism:volume>
-      <prism:number>6820</prism:number>
-      <prism:startingPage>212</prism:startingPage>
-      <prism:endingPage>215</prism:endingPage>
-      <prism:coverDate>2026-10-08T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2026-10-08T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1126/science.aec3917</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aec3917?af=R</prism:url>
-      <prism:copyright/>
-   </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aei0940?af=R">
       <title>Natural 15N15N abundances constrain fixed nitrogen loss</title>
       <link>https://www.science.org/doi/abs/10.1126/science.aei0940?af=R</link>
@@ -362,6 +322,27 @@
       <prism:url>https://www.science.org/doi/abs/10.1126/science.adx4170?af=R</prism:url>
       <prism:copyright/>
    </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aec3917?af=R">
+      <title>High-capacity associative memory in a quantum-optical spin glass</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aec3917?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6820"&gt;Volume 394, Issue 6820&lt;/a&gt;, Page 212-215, October 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 394, Issue 6820, Page 212-215, October 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aec3917</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-09-03T06:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Surya Ganguli, Sarang Gopalakrishnan, Jonathan Keeling, Benjamin L. Lev</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>394</prism:volume>
+      <prism:number>6820</prism:number>
+      <prism:startingPage>212</prism:startingPage>
+      <prism:endingPage>215</prism:endingPage>
+      <prism:coverDate>2026-10-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-10-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aec3917</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aec3917?af=R</prism:url>
+      <prism:copyright/>
+   </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ady2660?af=R">
       <title>Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord</title>
       <link>https://www.science.org/doi/abs/10.1126/science.ady2660?af=R</link>
@@ -381,6 +362,25 @@
       <prism:coverDisplayDate>2026-10-08T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.ady2660</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.ady2660?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aea7733?af=R">
+      <title>The human gut microbiome primes fever after vaccination</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aea7733?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6820"&gt;Volume 394, Issue 6820&lt;/a&gt;, October 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 394, Issue 6820, October 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aea7733</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-10-08T07:00:00Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Kelsey E. Huus, µHEAT Study Group‡, Hirohito Abo, Yi Han Tan, Ezgi Atay, Héloïse Rytter, Ronald Keller, Silke Dauser, Dai Long Vu, Meghan B. Azad, Rob Knight, Alfred Ke, Larisa Lotoski, Marc-André Langlois, Rong Liu, Alexander V. Tyakht, Nicholas Youngblut, Sang-Moo Kang, Julie Parsonnet, Lisa Maier, Benoit Chassaing, Peter G. Kremsner, Andrew T. Gewirtz, Meral Esen, Ruth E. LeyJulian J. Gabor, Johanna M. Gaile, Wim A. Fleischmann, Alex S. Siebner, Geerten Smeenk, Judith Flügge, Roberta Allgayer De Moraes, Dennis Jakob, Alina Prokipchuk, Carolin Wilhelm</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>394</prism:volume>
+      <prism:number>6820</prism:number>
+      <prism:coverDate>2026-10-08T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-10-08T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aea7733</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aea7733?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem9878?af=R">
