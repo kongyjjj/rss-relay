@@ -69,6 +69,7 @@
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1064?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1075?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1029?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0732?af=R"/>
@@ -79,6 +80,7 @@
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0903?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1053?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1072?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1042?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1068?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1058?af=R"/>
@@ -1063,6 +1065,24 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1075?af=R</prism:url>
       <prism:copyright/>
    </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R">
+      <title>National Mapping of Monoculture and Intercropped Maize via Phenology-Assisted Sampling: Application in Kenya</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1082</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-10-14T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Yang ChenLijun ZuoXianhu WeiJinyong XuJin ChenGeorge WatenePatricio GrassiniLiangzhi YouHarison KipkuleiSam ChumbaTianshi Pan</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1082</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R</prism:url>
+      <prism:copyright/>
+   </item>
    <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R">
       <title>Monitoring the Global Top-of-Atmosphere Shortwave Radiation Flux with Deep Space-Based Earth Observations</title>
       <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R</link>
@@ -1241,6 +1261,24 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1072</prism:doi>
       <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1072?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R">
+      <title>Deep Learning for Road Extraction with CHN10-CUG: A Large-Scale Benchmark and a Comprehensive Review</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1080</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-10-14T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Tiansheng ZhangSisi PengLongli RanQingfeng GuanQiqi Zhu</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1080</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1042?af=R">
