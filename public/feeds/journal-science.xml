@@ -48,8 +48,8 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen2358?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen2359?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen2357?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen2353?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen2355?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen2353?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem0383?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen0122?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ael4888?af=R"/>
@@ -739,27 +739,6 @@
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aen2357?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aen2353?af=R">
-      <title>Redating the Inca empire</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aen2353?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6821"&gt;Volume 394, Issue 6821&lt;/a&gt;, Page 262-267, October 2026. &lt;br/&gt;</content:encoded>
-      <description>Science, Volume 394, Issue 6821, Page 262-267, October 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.1126/science.aen2353</dc:identifier>
-      <dc:source>Science</dc:source>
-      <dc:date>2026-10-15T06:00:12Z</dc:date>
-      <dc:type>Feature</dc:type>
-      <dc:creator>Lizzie Wade</dc:creator>
-      <prism:publicationName>Science</prism:publicationName>
-      <prism:volume>394</prism:volume>
-      <prism:number>6821</prism:number>
-      <prism:startingPage>262</prism:startingPage>
-      <prism:endingPage>267</prism:endingPage>
-      <prism:coverDate>2026-10-15T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2026-10-15T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1126/science.aen2353</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aen2353?af=R</prism:url>
-      <prism:copyright/>
-   </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aen2355?af=R">
       <title>AI takes a bite out of math’s hardest problem</title>
       <link>https://www.science.org/doi/abs/10.1126/science.aen2355?af=R</link>
@@ -779,6 +758,27 @@
       <prism:coverDisplayDate>2026-10-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aen2355</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aen2355?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aen2353?af=R">
+      <title>Redating the Inca empire</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aen2353?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6821"&gt;Volume 394, Issue 6821&lt;/a&gt;, Page 262-267, October 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 394, Issue 6821, Page 262-267, October 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aen2353</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-10-15T06:00:12Z</dc:date>
+      <dc:type>Feature</dc:type>
+      <dc:creator>Lizzie Wade</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>394</prism:volume>
+      <prism:number>6821</prism:number>
+      <prism:startingPage>262</prism:startingPage>
+      <prism:endingPage>267</prism:endingPage>
+      <prism:coverDate>2026-10-15T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-10-15T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aen2353</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aen2353?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem0383?af=R">

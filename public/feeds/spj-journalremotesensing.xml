@@ -71,6 +71,7 @@
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1075?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1077?af=R"/>
+            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1029?af=R"/>
             <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0732?af=R"/>
@@ -1100,6 +1101,24 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1077</prism:doi>
       <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1077?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R">
+      <title>Tracking the Spatiotemporal Dynamics of Center-Pivot Irrigation Systems in China (2000 to 2024) Using an Improved Deep Learning Framework</title>
+      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R</link>
+      <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.34133/remotesensing.1081</dc:identifier>
+      <dc:source>Journal of Remote Sensing</dc:source>
+      <dc:date>2026-10-20T07:00:00Z</dc:date>
+      <dc:type/>
+      <dc:creator>Binyan LyuPengzhan ZhaoNanshan YouYuanyuan HaoJinwei Dong</dc:creator>
+      <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
+      <prism:volume>6</prism:volume>
+      <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.34133/remotesensing.1081</prism:doi>
+      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R">
