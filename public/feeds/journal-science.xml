@@ -19,7 +19,6 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem0071?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem1550?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adr9983?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adv3196?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adz2542?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeb9095?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed2525?af=R"/>
@@ -32,8 +31,9 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aef3063?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aei5255?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej0483?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aec2602?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adv3196?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen5956?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen5957?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem1560?af=R"/>
@@ -147,27 +147,6 @@
       <prism:coverDisplayDate>2026-10-29T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.adr9983</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.adr9983?af=R</prism:url>
-      <prism:copyright/>
-   </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adv3196?af=R">
-      <title>Chiral altermagnon in MnTe</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.adv3196?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6823"&gt;Volume 394, Issue 6823&lt;/a&gt;, Page 541-543, October 2026. &lt;br/&gt;</content:encoded>
-      <description>Science, Volume 394, Issue 6823, Page 541-543, October 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.1126/science.adv3196</dc:identifier>
-      <dc:source>Science</dc:source>
-      <dc:date>2026-10-29T06:00:08Z</dc:date>
-      <dc:type>Research Article</dc:type>
-      <dc:creator>Daniel Jost, Resham Babu Regmi, Eder G. Lomeli, Samuel Sahel-Schackis, Monika Scheufele, Marcel Neuhaus, Rachel Nickel, Flora Yakhou, Kurt Kummer, Nicholas B. Brookes, Lingjia Shen, Georgi L. Dakovski, Nirmal J. Ghimire, Stephan Geprägs, Matthias F. Kling</dc:creator>
-      <prism:publicationName>Science</prism:publicationName>
-      <prism:volume>394</prism:volume>
-      <prism:number>6823</prism:number>
-      <prism:startingPage>541</prism:startingPage>
-      <prism:endingPage>543</prism:endingPage>
-      <prism:coverDate>2026-10-29T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2026-10-29T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1126/science.adv3196</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.adv3196?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adz2542?af=R">
@@ -410,6 +389,27 @@
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aej0483?af=R</prism:url>
       <prism:copyright/>
    </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aec2602?af=R">
+      <title>Altermagnetism revealed by polarized neutrons in MnF2</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aec2602?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6823"&gt;Volume 394, Issue 6823&lt;/a&gt;, Page 544-548, October 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 394, Issue 6823, Page 544-548, October 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aec2602</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-10-29T06:00:08Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Quentin Faure, Dalila Bounoua, Victor Balédent, Arsen Gukasov, V. Ovidiu Garlea, Afonso Ribeiro, Jeffrey G. Rau, Sylvain Petit, Paul McClarty</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>394</prism:volume>
+      <prism:number>6823</prism:number>
+      <prism:startingPage>544</prism:startingPage>
+      <prism:endingPage>548</prism:endingPage>
+      <prism:coverDate>2026-10-29T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-10-29T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aec2602</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aec2602?af=R</prism:url>
+      <prism:copyright/>
+   </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R">
       <title>The global geography of threats to freshwater biodiversity</title>
       <link>https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R</link>
@@ -431,25 +431,25 @@
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aeb7910?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aec2602?af=R">
-      <title>Altermagnetism revealed by polarized neutrons in MnF2</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aec2602?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6823"&gt;Volume 394, Issue 6823&lt;/a&gt;, Page 544-548, October 2026. &lt;br/&gt;</content:encoded>
-      <description>Science, Volume 394, Issue 6823, Page 544-548, October 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.1126/science.aec2602</dc:identifier>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.adv3196?af=R">
+      <title>Chiral altermagnon in MnTe</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.adv3196?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6823"&gt;Volume 394, Issue 6823&lt;/a&gt;, Page 541-543, October 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 394, Issue 6823, Page 541-543, October 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.adv3196</dc:identifier>
       <dc:source>Science</dc:source>
       <dc:date>2026-10-29T06:00:08Z</dc:date>
       <dc:type>Research Article</dc:type>
-      <dc:creator>Quentin Faure, Dalila Bounoua, Victor Balédent, Arsen Gukasov, V. Ovidiu Garlea, Afonso Ribeiro, Jeffrey G. Rau, Sylvain Petit, Paul McClarty</dc:creator>
+      <dc:creator>Daniel Jost, Resham Babu Regmi, Eder G. Lomeli, Samuel Sahel-Schackis, Monika Scheufele, Marcel Neuhaus, Rachel Nickel, Flora Yakhou, Kurt Kummer, Nicholas B. Brookes, Lingjia Shen, Georgi L. Dakovski, Nirmal J. Ghimire, Stephan Geprägs, Matthias F. Kling</dc:creator>
       <prism:publicationName>Science</prism:publicationName>
       <prism:volume>394</prism:volume>
       <prism:number>6823</prism:number>
-      <prism:startingPage>544</prism:startingPage>
-      <prism:endingPage>548</prism:endingPage>
+      <prism:startingPage>541</prism:startingPage>
+      <prism:endingPage>543</prism:endingPage>
       <prism:coverDate>2026-10-29T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-10-29T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1126/science.aec2602</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aec2602?af=R</prism:url>
+      <prism:doi>10.1126/science.adv3196</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.adv3196?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aen5956?af=R">
