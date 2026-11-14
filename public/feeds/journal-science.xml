@@ -37,9 +37,9 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeo0222?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeo0223?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem7174?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8354?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem6415?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem4781?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem8354?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem4493?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aen7042?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aem4589?af=R"/>
@@ -517,27 +517,6 @@
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aem7174?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8354?af=R">
-      <title>Budding without an ESCRT</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aem8354?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6825"&gt;Volume 394, Issue 6825&lt;/a&gt;, Page 720-721, November 2026. &lt;br/&gt;</content:encoded>
-      <description>Science, Volume 394, Issue 6825, Page 720-721, November 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.1126/science.aem8354</dc:identifier>
-      <dc:source>Science</dc:source>
-      <dc:date>2026-11-12T07:00:02Z</dc:date>
-      <dc:type>Perspective</dc:type>
-      <dc:creator>Jeremy G. Carlton</dc:creator>
-      <prism:publicationName>Science</prism:publicationName>
-      <prism:volume>394</prism:volume>
-      <prism:number>6825</prism:number>
-      <prism:startingPage>720</prism:startingPage>
-      <prism:endingPage>721</prism:endingPage>
-      <prism:coverDate>2026-11-12T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2026-11-12T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1126/science.aem8354</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8354?af=R</prism:url>
-      <prism:copyright/>
-   </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem6415?af=R">
       <title>The devastating impact of humans on elephants’ social life</title>
       <link>https://www.science.org/doi/abs/10.1126/science.aem6415?af=R</link>
@@ -578,6 +557,27 @@
       <prism:coverDisplayDate>2026-11-12T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aem4781</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aem4781?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem8354?af=R">
+      <title>Budding without an ESCRT</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aem8354?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6825"&gt;Volume 394, Issue 6825&lt;/a&gt;, Page 720-721, November 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 394, Issue 6825, Page 720-721, November 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aem8354</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-11-12T07:00:02Z</dc:date>
+      <dc:type>Perspective</dc:type>
+      <dc:creator>Jeremy G. Carlton</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>394</prism:volume>
+      <prism:number>6825</prism:number>
+      <prism:startingPage>720</prism:startingPage>
+      <prism:endingPage>721</prism:endingPage>
+      <prism:coverDate>2026-11-12T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-11-12T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aem8354</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aem8354?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aem4493?af=R">
