@@ -6,99 +6,99 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc/"
          xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
-   <channel rdf:about="https://spj.science.org/loi/remotesensing?af=R">
+   <channel rdf:about="https://www.science.org/loi/remotesensing?af=R">
       <title>American Association for the Advancement of Science: Journal of Remote Sensing: Table of Contents</title>
       <description>Table of Contents for Journal of Remote Sensing. List of articles from both the latest and ahead of print issues.</description>
-      <link>https://spj.science.org/loi/remotesensing?af=R</link>
+      <link>https://www.science.org/loi/remotesensing?af=R</link>
       <dc:publisher>American Association for the Advancement of Science</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Journal of Remote Sensing</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1044?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1041?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1047?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1025?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1049?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1027?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1048?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1054?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1032?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1031?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1035?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1038?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1037?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0939?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0738?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0737?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1066?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1046?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1071?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1074?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1030?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0836?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1043?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1045?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0805?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0929?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1034?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1055?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1033?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1050?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1039?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1036?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0981?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1013?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0878?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0955?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1056?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1051?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1067?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1065?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1052?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1064?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1075?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1077?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1088?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1083?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1029?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0732?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0874?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0994?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0940?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1040?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.0903?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1053?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1072?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1042?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1068?af=R"/>
-            <rdf:li rdf:resource="https://spj.science.org/doi/abs/10.34133/remotesensing.1058?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1044?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1041?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1047?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1025?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1049?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1027?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1048?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1054?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1032?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1031?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1035?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1038?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1037?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0939?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0738?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0737?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1066?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1046?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1063?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1071?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1074?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1078?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1026?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1030?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0836?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1043?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1045?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0805?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0929?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1034?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1055?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1033?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1050?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1039?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1036?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0981?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1013?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0878?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0955?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1056?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1051?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1067?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1065?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1052?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1069?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1060?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1059?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1062?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1057?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0970?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1061?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1028?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1064?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1075?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1082?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1077?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1081?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1088?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1083?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0373?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1029?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0732?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0874?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0994?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0940?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1040?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.0903?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1053?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1072?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1080?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1042?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1068?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.34133/remotesensing.1058?af=R"/>
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://spj.science.org/cms/asset/50924347-200d-4d91-b2f7-29b93d14c398/default_cover.jpg">
+   <image rdf:about="https://www.science.org/cms/asset/50924347-200d-4d91-b2f7-29b93d14c398/default_cover.jpg">
       <title>Journal of Remote Sensing</title>
-      <url>https://spj.science.org/cms/asset/50924347-200d-4d91-b2f7-29b93d14c398/default_cover.jpg</url>
-      <link>https://spj.science.org/loi/remotesensing?af=R</link>
+      <url>https://www.science.org/cms/asset/50924347-200d-4d91-b2f7-29b93d14c398/default_cover.jpg</url>
+      <link>https://www.science.org/loi/remotesensing?af=R</link>
    </image>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1044?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1044?af=R">
       <title>Estimation of Solar Radiation and Its Direct and Diffuse Components from the FY-4A Based on the Transfer Learning Method</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1044?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1044?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1044</dc:identifier>
@@ -111,12 +111,12 @@
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1044</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1044?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1044?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1041?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1041?af=R">
       <title>Aquila: A Hierarchically Aligned Vision-Language Model for Enhanced Remote Sensing Image Comprehension</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1041?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1041?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1041</dc:identifier>
@@ -129,12 +129,12 @@
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1041</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1041?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1041?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1047?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1047?af=R">
       <title>A Novel Machine Learning-Based Algorithm for Retrieving Remote-Sensing Reflectance from Multispectral Observations of the Geostationary Meteorological Satellite Himawari-8</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1047?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1047?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1047</dc:identifier>
@@ -147,12 +147,12 @@
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1047</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1047?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1047?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1025?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1025?af=R">
       <title>LuTan-1: First Demonstration of Hybrid-Polarimetric Synthetic Aperture Radar—Assessing Application Potentials and Performance Constraints</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1025?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1025?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1025</dc:identifier>
@@ -165,12 +165,12 @@
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1025</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1025?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1025?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1049?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1049?af=R">
       <title>Trees as Gaussians: Large-Scale Individual Tree Mapping</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1049?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1049?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1049</dc:identifier>
@@ -183,12 +183,12 @@
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1049</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1049?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1049?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1027?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1027?af=R">
       <title>PLGMamba: A New Progressive Local–Global State-Space Model for Hyperspectral Image Super-Resolution</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1027?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1027?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1027</dc:identifier>
@@ -201,13 +201,13 @@
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1027</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1027?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1027?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1048?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1048?af=R">
       <title>
 PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth Dynamics</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1048?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1048?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1048</dc:identifier>
@@ -220,12 +220,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1048</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1048?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1048?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1054?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1054?af=R">
       <title>Mapping Economic Sustainability Dynamics in China over the Last 20 Years</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1054?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1054?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1054</dc:identifier>
@@ -238,12 +238,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1054</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1054?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1054?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1032?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1032?af=R">
       <title>3DBP-CS: Three-Dimensional Back Projection Combined with Compressive Sensing for Low-Altitude Array-InSAR Imaging</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1032?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1032?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1032</dc:identifier>
@@ -256,12 +256,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1032</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1032?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1032?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1031?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1031?af=R">
       <title>Spatiotemporal Variation Analysis of Ice-Edge Eddies in the Fram Strait Based on Sequential SAR Images</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1031?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1031?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1031</dc:identifier>
@@ -274,12 +274,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1031</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1031?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1031?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1035?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1035?af=R">
       <title>From Incomplete Views to Complete Objects: Amodal Completion for Semantic and Structural Restoration in Remote Sensing</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1035?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1035?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1035</dc:identifier>
@@ -292,12 +292,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1035</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1035?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1035?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1038?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1038?af=R">
       <title>Rethinking Coarse-to-Fine Fully Convolutional Transformers for Salient Maritime Ship Detection in Optical Remote Sensing Imagery</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1038?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1038?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1038</dc:identifier>
@@ -310,12 +310,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1038</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1038?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1038?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1037?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1037?af=R">
       <title>Disturbance-Robust Remote Sensing Change Captioning with Self-supervised Multifrequency Representation</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1037?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1037?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1037</dc:identifier>
@@ -328,12 +328,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1037</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1037?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1037?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0939?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0939?af=R">
       <title>Concept and Initial Realization of PHYSER—A Physics-Based Framework for Spaceborne GNSS-R Soil Moisture Retrieval with Accurate Soil Reflectivity</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0939?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0939?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0939</dc:identifier>
@@ -346,12 +346,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0939</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0939?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0939?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0738?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0738?af=R">
       <title>DART 3D Radiative Transfer Modeling Applied to RAMI Forests – Part 1: Assessing Canopy Structure Effects on Directional TIR Emissivity</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0738?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0738?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0738</dc:identifier>
@@ -364,12 +364,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0738</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0738?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0738?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0737?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0737?af=R">
       <title>DART 3D Radiative Transfer Modeling Applied to RAMI Forests – Part 2: Lidar Waveform Simulation and Canopy Structure Analysis</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0737?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0737?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0737</dc:identifier>
@@ -382,12 +382,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0737</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0737?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0737?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1066?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1066?af=R">
       <title>Active Remote Sensing Reflectance Measurement Using White-Light Lidar: Monte Carlo Simulations</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1066?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1066?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1066</dc:identifier>
@@ -400,12 +400,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1066</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1066?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1066?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1046?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1046?af=R">
       <title>DEDM-Net: Diffusion-Enhanced Dense Mamba Network for Infrared Small Target Detection</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1046?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1046?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1046</dc:identifier>
@@ -418,12 +418,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1046</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1046?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1046?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1063?af=R">
       <title>Regional Atmospheric Profile Retrieval Driven by Multistation Collaboration based on Geoscience-Informed Deep Learning</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1063?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1063</dc:identifier>
@@ -436,12 +436,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1063</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1063?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1063?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1071?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1071?af=R">
       <title>UAV-Based SfM Photogrammetry for Bathymetric Terrain Extraction in Antarctic Shallow Bays Near China’s Qinling Station</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1071?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1071?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1071</dc:identifier>
@@ -454,12 +454,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1071</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1071?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1071?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1074?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1074?af=R">
       <title>Contrastive Learning with Spatial–Spectral Masking and Mixing for Hyperspectral Image Classification</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1074?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1074?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1074</dc:identifier>
@@ -472,12 +472,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1074</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1074?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1074?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1078?af=R">
       <title>Deep Learning-Based Precipitation Classification Using Global Precipitation Measurement Dual-Frequency Precipitation Radar</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1078?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1078</dc:identifier>
@@ -490,12 +490,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1078</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1078?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1078?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1026?af=R">
       <title>Exploring the Performance of SWOT Satellite to Monitor Lake Volumes: A Case Study of Chinese Lakes</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1026?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1026</dc:identifier>
@@ -508,12 +508,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1026</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1026?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1026?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1030?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1030?af=R">
       <title>A Method for Mapping Strong Scattering Information in SAR Images to 3D Target Geometry Using a Customized Differentiable SAR Simulator</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1030?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1030?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1030</dc:identifier>
@@ -526,12 +526,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1030</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1030?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1030?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0836?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0836?af=R">
       <title>A Nitrogen Application Decision-Making Scheme for Tobacco Growth Based on UAV Multispectral Imagery</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0836?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0836?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0836</dc:identifier>
@@ -544,12 +544,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0836</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0836?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0836?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1043?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1043?af=R">
       <title>Seamless Global Mapping of HCHO from Chinese Satellite via Spectral Retrieval and Neural Operator</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1043?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1043?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1043</dc:identifier>
@@ -562,12 +562,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1043</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1043?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1043?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1045?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1045?af=R">
       <title>Mapping Paddy Rice Cropping Intensity and Planting Dates in Monsoon Asia at 20 m Resolution during 2018–2021 from Multi-source Satellite Data</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1045?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1045?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1045</dc:identifier>
@@ -580,12 +580,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1045</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1045?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1045?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0805?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0805?af=R">
       <title>A Feature-Optimized and Performance-Weighted Ensemble Learning for Estimating Soil Salinity Using UAV Imagery and Soil Auxiliary Information</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0805?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0805?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0805</dc:identifier>
@@ -598,12 +598,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0805</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0805?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0805?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0929?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0929?af=R">
       <title>Unsupervised Detection of Disaster-Affected Areas by Combining the Strengths of Change Detection and Anomaly Detection: Target for On-Orbit Application</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0929?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0929?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0929</dc:identifier>
@@ -616,12 +616,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0929</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0929?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0929?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1034?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1034?af=R">
       <title>Proximal Measurements of Solar-Induced Fluorescence and Surface Reflectance Capture Seasonal Productivity and Drought Stress Dynamics in a Semiarid Grassland Ecosystem</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1034?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1034?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1034</dc:identifier>
@@ -634,12 +634,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1034</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1034?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1034?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1055?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1055?af=R">
       <title>A Moisture-Insensitive NPV Hyperspectral Index (MINI) for Vegetation Cover Estimation in Coastal Saltmarsh Wetlands</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1055?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1055?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1055</dc:identifier>
@@ -652,12 +652,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1055</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1055?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1055?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1033?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1033?af=R">
       <title>Mapping Global Built-Up Height Dynamics Using Temporally Calibrated Time Series Radar Data</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1033?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1033?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1033</dc:identifier>
@@ -670,12 +670,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1033</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1033?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1033?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1050?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1050?af=R">
       <title>From Physical Models to Transfer Learning: Flexible Strategies for Leaf Functional Trait Estimation across Global Optical Properties Datasets</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1050?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1050?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1050</dc:identifier>
@@ -688,12 +688,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1050</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1050?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1050?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1039?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1039?af=R">
       <title>Phase Linking in Multipolarimetric Multibaseline Joint Scatterer Interferometric Synthetic Aperture Radar</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1039?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1039?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1039</dc:identifier>
@@ -706,12 +706,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1039</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1039?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1039?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1036?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1036?af=R">
       <title>From Aqua MODIS to PACE OCI: Global-Scale Hyperspectral Rrs Reconstruction via Spectral-Attention Conditional GAN</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1036?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1036?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1036</dc:identifier>
@@ -724,12 +724,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1036</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1036?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1036?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0981?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0981?af=R">
       <title>Improving Soil Moisture Retrieval by Combining MODIS BRDF and CYGNSS Data</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0981?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0981?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0981</dc:identifier>
@@ -742,12 +742,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0981</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0981?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0981?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1013?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1013?af=R">
       <title>CH4Vision: Machine Learning Estimation of Methane Flux with GaoFen-5 Hyperspectral Imagery</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1013?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1013?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1013</dc:identifier>
@@ -760,12 +760,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1013</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1013?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1013?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0878?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0878?af=R">
       <title>Operational Framework for Field-Scale Crop Sowing and Emergence Date Estimation Using Daily Synthetic Harmonized Landsat Sentinel-2 Time Series</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0878?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0878?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0878</dc:identifier>
@@ -778,12 +778,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0878</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0878?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0878?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0955?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0955?af=R">
       <title>A Specific Vegetation Index for Monitoring and Tracking the Spatiotemporal Dynamics of Wheat Powdery Mildew from Ground to Unmanned Aerial Vehicle Scales</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0955?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0955?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0955</dc:identifier>
@@ -796,12 +796,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0955</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0955?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0955?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1056?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1056?af=R">
       <title>Landscape Structure and Regeneration Stages of Amazonian Secondary Vegetation from Satellite Data for Restoration Public Policies</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1056?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1056?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1056</dc:identifier>
@@ -814,12 +814,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1056</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1056?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1056?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1051?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1051?af=R">
       <title>This Is APEX: An Active–Passive Remote Sensing Fusion Algorithm for 3-Dimensional Aerosol Extinction Coefficient Mapping and Regional Planetary Boundary Layer Height Estimation</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1051?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1051?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1051</dc:identifier>
@@ -832,12 +832,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1051</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1051?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1051?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1067?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1067?af=R">
       <title>Antagonistic Roles of Climate Change and Human Activities in Reshaping Yangtze River Turbidity Revealed by a Virtual Satellite Constellation</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1067?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1067?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1067</dc:identifier>
@@ -850,12 +850,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1067</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1067?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1067?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1065?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1065?af=R">
       <title>Fine-Scale Mapping of Global Wetland Cities under the Ramsar System: An Object-Knowledge-Based 3-Stage Hierarchical Optimization Cascade Method</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1065?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1065?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1065</dc:identifier>
@@ -868,12 +868,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1065</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1065?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1065?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1052?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1052?af=R">
       <title>Satellite Remote Sensing of Global Ecosystem Water Use Efficiency: Accuracies, Patterns, and Drivers</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1052?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1052?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1052</dc:identifier>
@@ -886,12 +886,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1052</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1052?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1052?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1069?af=R">
       <title>Integrating Hyperspectral Data and Google Satellite Embedding Features for Aquatic Fish Biodiversity Prediction</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1069?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1069</dc:identifier>
@@ -904,12 +904,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1069</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1069?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1069?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1060?af=R">
       <title>Impacts of Compound Drought–Fire Events on Vegetation Sensitivity to Precipitation: Evidence from Global Satellite Observations during 2005 to 2021</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1060?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1060</dc:identifier>
@@ -922,12 +922,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1060</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1060?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1060?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1059?af=R">
       <title>Improving Soybean Yield Estimation by Incorporating Angular Anisotropy in Physics-Guided Deep Learning</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1059?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1059</dc:identifier>
@@ -940,12 +940,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1059</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1059?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1059?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1062?af=R">
       <title>Anthropogenic Disturbance Dampens Climate-Driven Greening in the Arctic</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1062?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1062</dc:identifier>
@@ -958,12 +958,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1062</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1062?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1062?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1057?af=R">
       <title>A Prototype Precipitation Retrieval Algorithm for Passive Microwave Observations from the FY-3G Satellite</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1057?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1057</dc:identifier>
@@ -976,12 +976,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1057</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1057?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1057?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0970?af=R">
       <title>A Remote Sensing-Based Solution for National Scale Tree Counting</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0970?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0970</dc:identifier>
@@ -994,12 +994,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0970</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0970?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0970?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1061?af=R">
       <title>Forest Height Regulates the Relationship between Sun-Induced Chlorophyll Fluorescence and Gross Primary Productivity at the Global Scale</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1061?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1061</dc:identifier>
@@ -1012,12 +1012,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1061</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1061?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1061?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1028?af=R">
       <title>Divergent Responses of Multi-frequency Vegetation Optical Depth Products to Climate Variations in China</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1028?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1028</dc:identifier>
@@ -1030,12 +1030,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1028</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1028?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1028?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1064?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1064?af=R">
       <title>Self-Supervised Spatiotemporal Reconstruction of Ocean Color Chlorophyll-a from Satellite Observations</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1064?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1064?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1064</dc:identifier>
@@ -1048,12 +1048,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1064</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1064?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1064?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1075?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1075?af=R">
       <title>A Novel Approach to Retrieve River Water Levels by Decomposing Altimetry Waveforms</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1075?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1075?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1075</dc:identifier>
@@ -1066,12 +1066,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1075</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1075?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1075?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1082?af=R">
       <title>National Mapping of Monoculture and Intercropped Maize via Phenology-Assisted Sampling: Application in Kenya</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1082?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1082</dc:identifier>
@@ -1084,12 +1084,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1082</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1082?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1082?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1077?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1077?af=R">
       <title>Wetland Inundation Mapping through Geostatistical Data Fusion of Sentinel-1, Sentinel-2, and PlanetScope Machine Learning Classifications</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1077?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1077?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1077</dc:identifier>
@@ -1102,12 +1102,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1077</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1077?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1077?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1081?af=R">
       <title>Tracking the Spatiotemporal Dynamics of Center-Pivot Irrigation Systems in China (2000 to 2024) Using an Improved Deep Learning Framework</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1081?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1081</dc:identifier>
@@ -1120,12 +1120,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1081</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1081?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1081?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1088?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1088?af=R">
       <title>Gaze Eye on Moving Vessels: Spatiotemporal Tracking from Staring Geostationary Orbit Satellite Image Sequences</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1088?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1088?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1088</dc:identifier>
@@ -1138,12 +1138,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1088</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1088?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1088?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1083?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1083?af=R">
       <title>Mapping CO Emissions and High-Risk Areas from Global ISI Plants: Insights from TROPOMI’s Long-Term Monitoring</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1083?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1083?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1083</dc:identifier>
@@ -1156,12 +1156,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1083</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1083?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1083?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0373?af=R">
       <title>Monitoring the Global Top-of-Atmosphere Shortwave Radiation Flux with Deep Space-Based Earth Observations</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0373?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0373</dc:identifier>
@@ -1174,12 +1174,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0373</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0373?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0373?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1029?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1029?af=R">
       <title>ALCC: Temporally Consistent Annual Land Cover Maps over China from 1985 to 2022 Based on an Ensemble Change Detection Method</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1029?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1029?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1029</dc:identifier>
@@ -1192,12 +1192,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1029</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1029?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1029?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0732?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0732?af=R">
       <title>Unraveling Ecosystem Function Responses to Grazing Intensity through UAV-Based Hyperspectral Analysis</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0732?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0732?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0732</dc:identifier>
@@ -1210,12 +1210,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0732</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0732?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0732?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0874?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0874?af=R">
       <title>The 1992–2024 Global NPP-VIIRS-like Nighttime Light Annual Data from Deep Learning Super-Resolution Reconstruction</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0874?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0874?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0874</dc:identifier>
@@ -1228,12 +1228,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0874</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0874?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0874?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0994?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0994?af=R">
       <title>Sensitivity of Different Soil-Resistant Vegetation Indices to Soil Moisture and Soil Type</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0994?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0994?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0994</dc:identifier>
@@ -1246,12 +1246,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0994</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0994?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0994?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0940?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0940?af=R">
       <title>Satellite-Observed Spatiotemporal Variations of Suspended Sediment Concentration in the Yellow River over the Past 40 Years: A Recent Shift in the Long-Term Decreasing Trend</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0940?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0940?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0940</dc:identifier>
@@ -1264,12 +1264,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0940</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0940?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0940?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1040?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1040?af=R">
       <title>Ice, Cloud, and Land Elevation Satellite-2 Photon-Counting Lidar for 3-Dimensional Ocean Observation: A Comprehensive Review of Algorithms, Applications, and Synergistic Opportunities</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1040?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1040?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1040</dc:identifier>
@@ -1282,12 +1282,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1040</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1040?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1040?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.0903?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.0903?af=R">
       <title>Integrating Plant Traits into Photosynthetic Efficiency Models Paves the Way for Accurate Estimates of Global Vegetation Productivity</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.0903?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.0903?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.0903</dc:identifier>
@@ -1300,12 +1300,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.0903</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.0903?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.0903?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1053?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1053?af=R">
       <title>Advances in Understanding Cloud Fraction and Its Impact on Surface Shortwave Radiation in the Arctic</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1053?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1053?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1053</dc:identifier>
@@ -1318,12 +1318,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1053</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1053?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1053?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1072?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1072?af=R">
       <title>A Major Advancement in Nighttime Light Remote Sensing: Applications and Prospects of SDGSAT-1 Data</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1072?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1072?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1072</dc:identifier>
@@ -1336,12 +1336,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1072</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1072?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1072?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1080?af=R">
       <title>Deep Learning for Road Extraction with CHN10-CUG: A Large-Scale Benchmark and a Comprehensive Review</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1080?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1080</dc:identifier>
@@ -1354,12 +1354,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1080</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1080?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1080?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1042?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1042?af=R">
       <title>Erratum to “Monitoring the Global Top-of-Atmosphere Shortwave Radiation Flux with Deep Space-Based Earth Observations”</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1042?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1042?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1042</dc:identifier>
@@ -1372,12 +1372,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1042</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1042?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1042?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1068?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1068?af=R">
       <title>Top 10 Frontier Scientific Challenges in the Field of Remote Sensing Science and Technology</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1068?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1068?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1068</dc:identifier>
@@ -1390,12 +1390,12 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1068</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1068?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1068?af=R</prism:url>
       <prism:copyright/>
    </item>
-   <item rdf:about="https://spj.science.org/doi/abs/10.34133/remotesensing.1058?af=R">
+   <item rdf:about="https://www.science.org/doi/abs/10.34133/remotesensing.1058?af=R">
       <title>Toward High-Accuracy Coastal Sea Surface Salinity Retrieval: A Dual-Pathway Framework from Interferometric Radiometry to Physical Forward Modeling</title>
-      <link>https://spj.science.org/doi/abs/10.34133/remotesensing.1058?af=R</link>
+      <link>https://www.science.org/doi/abs/10.34133/remotesensing.1058?af=R</link>
       <content:encoded>Journal of Remote Sensing, January 2026. &lt;br/&gt;</content:encoded>
       <description>Journal of Remote Sensing, Volume 6, January 2026. &lt;br/&gt;</description>
       <dc:identifier>doi:10.34133/remotesensing.1058</dc:identifier>
@@ -1408,7 +1408,7 @@ PROSPECT-S: A Model for Spike Optical Properties Considering Winter Wheat Growth
       <prism:coverDate>2026-01-01T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2026-01-01T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.34133/remotesensing.1058</prism:doi>
-      <prism:url>https://spj.science.org/doi/abs/10.34133/remotesensing.1058?af=R</prism:url>
+      <prism:url>https://www.science.org/doi/abs/10.34133/remotesensing.1058?af=R</prism:url>
       <prism:copyright/>
    </item>
 </rdf:RDF>
