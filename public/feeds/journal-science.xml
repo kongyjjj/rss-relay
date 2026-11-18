@@ -20,7 +20,6 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ady7788?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adz0597?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed8712?af=R"/>
-            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed9544?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aee0342?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aef3150?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aef6714?af=R"/>
@@ -33,6 +32,7 @@
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aej7530?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adr5469?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.adw7770?af=R"/>
+            <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aed9544?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.ady5526?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeo0222?af=R"/>
             <rdf:li rdf:resource="https://www.science.org/doi/abs/10.1126/science.aeo0223?af=R"/>
@@ -168,27 +168,6 @@
       <prism:coverDisplayDate>2026-11-12T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.aed8712</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.aed8712?af=R</prism:url>
-      <prism:copyright/>
-   </item>
-   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aed9544?af=R">
-      <title>Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990</title>
-      <link>https://www.science.org/doi/abs/10.1126/science.aed9544?af=R</link>
-      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6825"&gt;Volume 394, Issue 6825&lt;/a&gt;, Page 799-803, November 2026. &lt;br/&gt;</content:encoded>
-      <description>Science, Volume 394, Issue 6825, Page 799-803, November 2026. &lt;br/&gt;</description>
-      <dc:identifier>doi:10.1126/science.aed9544</dc:identifier>
-      <dc:source>Science</dc:source>
-      <dc:date>2026-11-12T07:00:02Z</dc:date>
-      <dc:type>Research Article</dc:type>
-      <dc:creator>Eric J. Morgan, Yuming Jin, Elena Kozlova, Andrew J. Watson, Andrew C. Manning, Sönke Zaehle, Yasunori Tohjima, Xin Lan, Ralph F. Keeling</dc:creator>
-      <prism:publicationName>Science</prism:publicationName>
-      <prism:volume>394</prism:volume>
-      <prism:number>6825</prism:number>
-      <prism:startingPage>799</prism:startingPage>
-      <prism:endingPage>803</prism:endingPage>
-      <prism:coverDate>2026-11-12T08:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2026-11-12T08:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1126/science.aed9544</prism:doi>
-      <prism:url>https://www.science.org/doi/abs/10.1126/science.aed9544?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aee0342?af=R">
@@ -431,6 +410,27 @@
       <prism:coverDisplayDate>2026-11-12T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1126/science.adw7770</prism:doi>
       <prism:url>https://www.science.org/doi/abs/10.1126/science.adw7770?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.science.org/doi/abs/10.1126/science.aed9544?af=R">
+      <title>Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990</title>
+      <link>https://www.science.org/doi/abs/10.1126/science.aed9544?af=R</link>
+      <content:encoded>Science, &lt;a href="https://www.science.org/toc/science/394/6825"&gt;Volume 394, Issue 6825&lt;/a&gt;, Page 799-803, November 2026. &lt;br/&gt;</content:encoded>
+      <description>Science, Volume 394, Issue 6825, Page 799-803, November 2026. &lt;br/&gt;</description>
+      <dc:identifier>doi:10.1126/science.aed9544</dc:identifier>
+      <dc:source>Science</dc:source>
+      <dc:date>2026-11-12T07:00:02Z</dc:date>
+      <dc:type>Research Article</dc:type>
+      <dc:creator>Eric J. Morgan, Yuming Jin, Elena Kozlova, Andrew J. Watson, Andrew C. Manning, Sönke Zaehle, Yasunori Tohjima, Xin Lan, Ralph F. Keeling</dc:creator>
+      <prism:publicationName>Science</prism:publicationName>
+      <prism:volume>394</prism:volume>
+      <prism:number>6825</prism:number>
+      <prism:startingPage>799</prism:startingPage>
+      <prism:endingPage>803</prism:endingPage>
+      <prism:coverDate>2026-11-12T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-11-12T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1126/science.aed9544</prism:doi>
+      <prism:url>https://www.science.org/doi/abs/10.1126/science.aed9544?af=R</prism:url>
       <prism:copyright/>
    </item>
    <item rdf:about="https://www.science.org/doi/abs/10.1126/science.ady5526?af=R">
